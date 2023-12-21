@@ -20,5 +20,5 @@ Download Hiki Adventure Unity Project 1.1.0 [DOWNLOAD](https://drive.google.com/
 
 ## 🙏🙏🙏
 <p align="center">
-<img src="https://github.com/yeftakun/Hiki-Adventure/assets/112306795/70fcb853-db8b-41de-99b7-17d669a4a89d" width=50% />
+<img src="https://github.com/yeftakun/Hiki-Adventure/assets/112306795/70fcb853-db8b-41de-99b7-17d669a4a89d" width=70% />
 </p>
