@@ -8,7 +8,7 @@
 #### Android
 - [Hiki Adventure 1.1.0](https://github.com/yeftakun/Hiki-Adventure-APK/archive/refs/tags/1.1.0.zip) | [GDrive](https://drive.google.com/file/d/12CWVTtNqkOdGzBNDyDB5qs06pb3x5N58/view?usp=sharing) | [OneDrive](https://unsratacid-my.sharepoint.com/:u:/g/personal/yeftaasyel026_student_unsrat_ac_id/EaoM6I5E6ZxHtodO_tzf0g0BN0dNm5M6VKr8brSDbUAIXg?e=JkgpmP)
 - Hiki Adventure 1.1.1 | [GDrive](https://drive.google.com/file/d/12CvvOqplv-U2eWCy2bGuPmdBw6cj7Luc/view?usp=sharing) | [OneDrive](https://unsratacid-my.sharepoint.com/:u:/g/personal/yeftaasyel026_student_unsrat_ac_id/Eeag1cSqZitNlQ6sq-NmQewBtvrMcWFwx8K0u9ee_aRTuQ?e=MFLGUl)
-- Hiki Adventure 1.1.2(https://github.com/yeftakun/Hiki-Adventure-APK/archive/refs/tags/1.1.2.zip) | [GDrive](https://drive.google.com/file/d/12DOfQRBnktTv5KiFHP8XIEKNuFIv7DDO/view?usp=sharing) | [OneDrive](https://unsratacid-my.sharepoint.com/:u:/g/personal/yeftaasyel026_student_unsrat_ac_id/EaPNa8ocy_xFpiBTUzuaouIBp5bmRfQhefG0BW8yZiCXeg?e=X6Mpah)
+- [Hiki Adventure 1.1.2](https://github.com/yeftakun/Hiki-Adventure-APK/archive/refs/tags/1.1.2.zip) | [GDrive](https://drive.google.com/file/d/12DOfQRBnktTv5KiFHP8XIEKNuFIv7DDO/view?usp=sharing) | [OneDrive](https://unsratacid-my.sharepoint.com/:u:/g/personal/yeftaasyel026_student_unsrat_ac_id/EaPNa8ocy_xFpiBTUzuaouIBp5bmRfQhefG0BW8yZiCXeg?e=X6Mpah)
 
 
 ## Developer
