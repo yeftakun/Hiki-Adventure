@@ -16,7 +16,7 @@
 2. Syalomitha Palandeng --> [Connect with me:)]()
 
 ## The Project
-Download Hiki Adventure Unity Project 1.1.0 [DOWNLOAD](https://drive.google.com/file/d/12K54ztjsoDhchmGjgWnta6JX-mScxVgD/view?usp=sharing)
+Download our Hiki Adventure Unity Project 1.1.0 [DOWNLOAD](https://drive.google.com/file/d/12K54ztjsoDhchmGjgWnta6JX-mScxVgD/view?usp=sharing)
 
 </br>
 
