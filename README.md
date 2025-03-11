@@ -11,12 +11,9 @@
 - [Hiki Adventure 1.1.2](https://github.com/yeftakun/Hiki-Adventure-APK/archive/refs/tags/1.1.2.zip) | [GDrive](https://drive.google.com/file/d/12DOfQRBnktTv5KiFHP8XIEKNuFIv7DDO/view?usp=sharing) | [OneDrive](https://unsratacid-my.sharepoint.com/:u:/g/personal/yeftaasyel026_student_unsrat_ac_id/EaPNa8ocy_xFpiBTUzuaouIBp5bmRfQhefG0BW8yZiCXeg?e=X6Mpah)
 
 
-## Developer
+## Dev
 1. Yefta Asyel --> [Connect with me:)](https://github.com/yeftakun)
 2. Syalomitha Palandeng --> [Connect with me:)]()
-
-## The Project
-Download our Hiki Adventure Unity Project 1.1.0 [DOWNLOAD](https://drive.google.com/file/d/12K54ztjsoDhchmGjgWnta6JX-mScxVgD/view?usp=sharing)
 
 </br>
 
